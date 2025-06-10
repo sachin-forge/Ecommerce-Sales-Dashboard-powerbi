@@ -43,3 +43,5 @@ ecommerce-sales-dashboard/
 ## Acknowledgments
 This project is part of a data analytics portfolio created to showcase skills in Power BI and business intelligence reporting.
 
+## Screenshots / Demos
+https://github.com/sachin-forge/Ecommerce-Sales-Dashboard-powerbi/blob/main/Snapshot%20of%20the%20%20Dashboard.png
