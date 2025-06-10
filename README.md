@@ -34,13 +34,12 @@ ecommerce-sales-dashboard/
 
 - Regional performance tracking
 
-## Preview
-   See the full report in the Ecommerce Project.pdf file. 
-
-
 ## How to Use
 
 1. Clone the repository:
    
    git clone https://github.com/sachin-forge/Ecommerce-Sales-Dashboard-powerbi
+
+## Acknowledgments
+This project is part of a data analytics portfolio created to showcase skills in Power BI and business intelligence reporting.
 
