@@ -42,5 +42,5 @@ ecommerce-sales-dashboard/
 
 1. Clone the repository:
    
-   git clone https://github.com/sachin-forge/Ecommerce-Sales-Dashboard-powerbi)
+   git clone https://github.com/sachin-forge/Ecommerce-Sales-Dashboard-powerbi
 
